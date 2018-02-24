@@ -1,0 +1,2 @@
+# jricardo
+Desarrollos personales
